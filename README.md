@@ -1,4 +1,4 @@
-# Java Basic 
+# Java Basic Programs
 
 In this repository, I am going to upload some of the basic Java programs that were implemented by me during my 4th semester.
 
